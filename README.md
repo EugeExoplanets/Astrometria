@@ -1,8 +1,5 @@
 # Astrometria
 
 Nombre: María Eugenia Rodriguez
+Aqui se expondran los informes realizados para la materia Astrometria 1.
 
-## Guia de trabajo 3
-
-### Ejercicio 1:
-hola
